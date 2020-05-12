@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\bin\Debug\GraphsLibrery.dll
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\bin\Debug\GraphsLibrery.pdb
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.dll
+C:\Users\andre\source\repos\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.pdb
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\bin\Debug\GraphsLibrery.dll
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\bin\Debug\GraphsLibrery.pdb
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.dll
+C:\Users\andre\Desktop\Курсова робота\Graphs\GraphsLibrery\obj\Debug\GraphsLibrery.pdb
